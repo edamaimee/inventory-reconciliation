@@ -15,7 +15,7 @@ from pathlib import Path
 import pandas as pd
 
 # -------------------------------------------------------------------
-# File system configuration
+# File
 # -------------------------------------------------------------------
 
 DATA_DIR = Path("data")
